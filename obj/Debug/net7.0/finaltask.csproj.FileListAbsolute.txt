@@ -1,0 +1,15 @@
+C:\Users\Adel\Desktop\Final\finaltask\bin\Debug\net7.0\finaltask.exe
+C:\Users\Adel\Desktop\Final\finaltask\bin\Debug\net7.0\finaltask.deps.json
+C:\Users\Adel\Desktop\Final\finaltask\bin\Debug\net7.0\finaltask.runtimeconfig.json
+C:\Users\Adel\Desktop\Final\finaltask\bin\Debug\net7.0\finaltask.dll
+C:\Users\Adel\Desktop\Final\finaltask\bin\Debug\net7.0\finaltask.pdb
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.csproj.AssemblyReference.cache
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.AssemblyInfoInputs.cache
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.AssemblyInfo.cs
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.csproj.CoreCompileInputs.cache
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.dll
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\refint\finaltask.dll
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.pdb
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\finaltask.genruntimeconfig.cache
+C:\Users\Adel\Desktop\Final\finaltask\obj\Debug\net7.0\ref\finaltask.dll
